@@ -1,0 +1,572 @@
+"Film","Movie.Genre","Award","Year_of_Release","IMDB_Votes","IMDB.Rating","Movie.Time"
+"Wings","Drama,Romance,War","Winner",1927,"12,221",7.5,144
+"7th Heaven","Drama,Romance","Nominee",1927,"3,439",7.7,110
+"The Racket","Crime,Drama,Film-Noir","Nominee",1928,"1,257",6.7,84
+"The Broadway Melody","Drama,Musical,Romance","Winner",1929,"6,890",5.7,100
+"Alibi","Action,Crime,Romance","Nominee",1929,"765",5.8,91
+"Hollywood Revue","Comedy,Music","Nominee",1929,"2,004",5.7,130
+"In Old Arizona","Western","Nominee",1928,"1,019",5.6,95
+"The Patriot","Drama,History,Thriller","Nominee",1928,"18",7.4,113
+"All Quiet on the Western Front","Drama,War","Winner",1930,"59,214",8.1,152
+"The Big House","Crime,Drama,Thriller","Nominee",1930,"2,079",7.1,87
+"Disraeli","Biography,Drama,History","Nominee",1929,"1,143",6.2,90
+"The Divorcee","Romance,Drama","Nominee",1930,"2,982",6.7,84
+"The Love Parade","Comedy,Musical,Romance","Nominee",1929,"2,163",7,107
+"Cimarron","Drama,Western","Winner",1931,"5,851",5.9,123
+"East Lynne","Drama,Romance","Nominee",1931,"188",5.9,102
+"The Front Page","Comedy,Crime,Drama","Nominee",1931,"2,741",6.8,101
+"Skippy","Comedy,Drama,Family","Nominee",1931,"772",6.3,85
+"Trader Horn","Action,Adventure,Drama","Nominee",1931,"957",6.3,122
+"Grand Hotel","Drama,Romance","Winner",1932,"18,314",7.4,112
+"Arrowsmith","Drama","Nominee",1931,"1,663",6.2,108
+"Bad Girl","Drama,Romance","Nominee",1931,"1,248",6.5,90
+"The Champ","Drama,Sport","Nominee",1931,"3,003",7.3,86
+"Five Star Final","Crime,Drama","Nominee",1931,"1,944",7.3,89
+"One Hour with You","Comedy,Musical,Romance","Nominee",1932,"2,317",7.2,78
+"Shanghai Express","Adventure,Drama,Romance","Nominee",1932,"8,325",7.3,82
+"The Smiling Lieutenant","Comedy,Romance,Musical","Nominee",1931,"3,540",7.2,93
+"Cavalcade","Drama,Romance,War","Winner",1933,"4,961",5.9,112
+"42nd Street","Comedy,Drama,Musical","Nominee",1933,"11,342",7.4,89
+"A Farewell to Arms","Drama,Romance,War","Nominee",1932,"5,567",6.5,80
+"I Am a Fugitive from a Chain Gang","Crime,Drama,Film-Noir","Nominee",1932,"12,604",8.2,92
+"Lady for a Day","Comedy,Drama","Nominee",1933,"3,971",7.4,96
+"Little Women","Drama,Family,Romance","Nominee",1933,"6,778",7.2,115
+"The Private Life of Henry VIII","Biography,Comedy,Drama","Nominee",1933,"4,090",7.1,97
+"She Done Him Wrong","Comedy,Drama,History","Nominee",1933,"5,899",6.4,66
+"Smilin' Through","Drama,Romance","Nominee",1932,"1,266",6.9,98
+"State Fair","Comedy,Drama,Romance","Nominee",1933,"829",6.8,99
+"It Happened One Night","Comedy,Romance","Winner",1934,"98,409",8.1,105
+"The Barretts of Wimpole Street","Biography,Drama,Romance","Nominee",1934,"1,795",7,109
+"Cleopatra","Biography,Drama,History","Nominee",1934,"3,678",6.8,100
+"Flirtation Walk","Musical,Romance","Nominee",1934,"700",5.7,97
+"The Gay Divorcee","Comedy,Musical,Romance","Nominee",1934,"7,455",7.5,107
+"Here Comes the Navy","Comedy,Drama,Romance","Nominee",1934,"940",6.3,87
+"The House of Rothschild","Biography,Drama,History","Nominee",1934,"1,127",6.6,88
+"Imitation of Life","Drama,Romance","Nominee",1934,"4,423",7.5,111
+"One Night of Love","Music,Romance","Nominee",1934,"577",5.7,84
+"The Thin Man","Comedy,Crime,Mystery","Nominee",1934,"27,959",8,91
+"Viva Villa!","Action,Biography,Romance","Nominee",1934,"1,277",6.4,115
+"The White Parade","Drama","Nominee",1934,"86",6.8,80
+"Mutiny on the Bounty","Adventure,Biography,Drama","Winner",1935,"21,805",7.7,132
+"Alice Adams","Comedy,Drama,Romance","Nominee",1935,"4,020",6.9,99
+"Broadway Melody of 1936","Musical,Romance","Nominee",1935,"1,662",6.8,101
+"Captain Blood","Action,Adventure,History","Nominee",1935,"13,708",7.7,119
+"David Copperfield","Adventure,Drama,Romance","Nominee",1935,"4,069",7.4,130
+"The Informer","Crime,Drama","Nominee",1935,"6,169",7.4,91
+"The Lives of a Bengal Lancer","Adventure,Drama,War","Nominee",1935,"2,813",7.1,109
+"A Midsummer Night's Dream","Comedy,Fantasy,Romance","Nominee",1935,"3,339",6.9,133
+"Les Misérables","Drama,History,Romance","Nominee",1935,"3,468",7.7,108
+"Naughty Marietta","Drama,Musical,Romance","Nominee",1935,"1,307",6.7,105
+"Ruggles of Red Gap","Comedy,Romance,Western","Nominee",1935,"3,874",7.6,90
+"Top Hat","Comedy,Musical,Romance","Nominee",1935,"18,339",7.8,101
+"The Great Ziegfeld","Biography,Drama,Musical","Winner",1936,"7,665",6.7,176
+"Anthony Adverse","Adventure,Drama,Romance","Nominee",1936,"1,706",6.4,141
+"Dodsworth","Drama,Romance","Nominee",1936,"8,668",7.8,101
+"Libeled Lady","Comedy,Romance","Nominee",1936,"7,509",7.9,98
+"Mr. Deeds Goes to Town","Comedy,Drama,Romance","Nominee",1936,"20,594",7.9,115
+"Romeo and Juliet","Drama,Romance","Nominee",1936,"1,910",6.5,125
+"San Francisco","Drama,Musical,Romance","Nominee",1936,"5,254",7.2,115
+"The Story of Louis Pasteur","Biography,Drama,History","Nominee",1936,"2,601",7.3,86
+"A Tale of Two Cities","Drama,History,Romance","Nominee",1935,"5,508",7.8,128
+"Three Smart Girls","Comedy,Musical,Romance","Nominee",1936,"1,344",6.7,84
+"The Life of Emile Zola","Biography,Drama","Winner",1937,"7,771",7.2,116
+"The Awful Truth","Comedy,Romance","Nominee",1937,"18,721",7.7,90
+"Captains Courageous","Adventure,Drama,Family","Nominee",1937,"9,243",8,117
+"Dead End","Crime,Drama,Film-Noir","Nominee",1937,"7,083",7.3,93
+"The Good Earth","Drama,Romance","Nominee",1937,"4,753",7.5,138
+"In Old Chicago","Action,Drama,Musical","Nominee",1938,"2,233",6.8,95
+"Lost Horizon","Adventure,Drama,Fantasy","Nominee",1937,"12,513",7.7,132
+"One Hundred Men and a Girl","Comedy,Drama,Music","Nominee",1937,"1,029",6.8,84
+"Stage Door","Comedy,Drama","Nominee",1937,"8,040",7.8,92
+"A Star Is Born","Drama,Romance","Nominee",1937,"9,301",7.3,111
+"You Can't Take It with You","Comedy,Drama,Romance","Winner",1938,"24,466",7.9,126
+"The Adventures of Robin Hood","Action,Adventure,Romance","Nominee",1938,"49,004",7.9,102
+"Alexander's Ragtime Band","Drama,Music,Musical","Nominee",1938,"2,042",6.9,106
+"Boys Town","Biography,Drama","Nominee",1938,"5,449",7.3,96
+"The Citadel","Drama","Nominee",1938,"2,047",7.1,110
+"Four Daughters","Drama,Music,Romance","Nominee",1938,"1,881",6.9,90
+"Grand Illusion","Drama,War","Nominee",1937,"35,191",8.1,113
+"Jezebel","Drama,Romance","Nominee",1938,"12,874",7.5,104
+"Pygmalion","Comedy,Drama,Romance","Nominee",1938,"8,321",7.8,89
+"Test Pilot","Drama,Romance","Nominee",1938,"2,323",6.9,119
+"Gone with the Wind","Drama,History,Romance","Winner",1939,"300,592",8.1,238
+"Dark Victory","Drama,Romance","Nominee",1939,"10,648",7.5,104
+"Goodbye, Mr. Chips","Drama,Romance","Nominee",1939,"10,164",7.9,114
+"Love Affair","Comedy,Drama,Romance","Nominee",1939,"4,857",7.3,88
+"Mr. Smith Goes to Washington","Comedy,Drama","Nominee",1939,"110,984",8.1,129
+"Ninotchka","Comedy,Romance","Nominee",1939,"19,988",7.9,110
+"Of Mice and Men","Adventure,Drama","Nominee",1939,"5,813",7.9,106
+"Stagecoach","Adventure,Drama,Western","Nominee",1939,"45,997",7.9,96
+"The Wizard of Oz","Adventure,Family,Fantasy","Nominee",1939,"378,893",8,102
+"Wuthering Heights","Drama,Romance","Nominee",1939,"17,314",7.6,104
+"Rebecca","Drama,Mystery,Romance","Winner",1940,"130,546",8.1,130
+"All This, and Heaven Too","Drama,Romance","Nominee",1940,"4,728",7.5,141
+"Foreign Correspondent","Action,Romance,Thriller","Nominee",1940,"19,657",7.5,120
+"The Grapes of Wrath","Drama,History","Nominee",1940,"89,303",8.1,129
+"The Great Dictator","Comedy,Drama,War","Nominee",1940,"212,446",8.4,125
+"Kitty Foyle","Drama,Romance","Nominee",1940,"3,495",6.9,108
+"The Letter","Crime,Drama,Film-Noir","Nominee",1940,"12,503",7.6,95
+"The Long Voyage Home","Drama,War","Nominee",1940,"4,139",7,105
+"Our Town","Drama,Romance","Nominee",1940,"2,525",6.6,90
+"The Philadelphia Story","Comedy,Romance","Nominee",1940,"66,044",7.9,112
+"How Green Was My Valley","Drama,Family","Winner",1941,"22,753",7.7,118
+"Blossoms in the Dust","Biography,Drama,Romance","Nominee",1941,"1,919",6.9,99
+"Citizen Kane","Drama,Mystery","Nominee",1941,"420,959",8.3,119
+"Here Comes Mr. Jordan","Comedy,Fantasy,Romance","Nominee",1941,"6,154",7.6,94
+"Hold Back the Dawn","Drama,Romance","Nominee",1941,"2,247",7.4,116
+"The Little Foxes","Drama,Romance","Nominee",1941,"11,254",8,116
+"The Maltese Falcon","Crime,Film-Noir,Mystery","Nominee",1941,"152,988",8,100
+"One Foot in Heaven","Biography,Drama","Nominee",1941,"1,213",6.8,108
+"Sergeant York","Biography,Drama,History","Nominee",1941,"17,415",7.7,134
+"Suspicion","Film-Noir,Mystery,Thriller","Nominee",1941,"36,081",7.4,99
+"Mrs. Miniver","Drama,Romance,War","Winner",1942,"16,879",7.6,134
+"49th Parallel","Drama,Thriller,War","Nominee",1941,"6,333",7.3,123
+"Kings Row","Drama,Mystery,Romance","Nominee",1942,"4,285",7.5,127
+"The Magnificent Ambersons","Drama,Romance","Nominee",1942,"23,662",7.7,88
+"The Pied Piper","Drama,War","Nominee",1942,"565",7.1,87
+"The Pride of the Yankees","Biography,Drama,Romance","Nominee",1942,"10,459",7.7,128
+"Random Harvest","Adventure,Drama,Family","Nominee",1942,"7,331",8,126
+"The Talk of the Town","Comedy,Drama,Romance","Nominee",1942,"7,884",7.5,118
+"Wake Island","Action,Drama,War","Nominee",1942,"1,924",6.8,88
+"Yankee Doodle Dandy","Biography,Drama,Music","Nominee",1942,"14,872",7.7,126
+"Casablanca","Drama,Romance,War","Winner",1942,"541,023",8.5,102
+"For Whom the Bell Tolls","Adventure,Drama,History","Nominee",1943,"8,880",6.9,170
+"Heaven Can Wait","Comedy,Drama,Fantasy","Nominee",1943,"10,272",7.4,112
+"The Human Comedy","Comedy,Drama,Family","Nominee",1943,"2,044",7,117
+"In Which We Serve","Drama,War","Nominee",1942,"5,442",7.2,115
+"Madame Curie","Biography,Drama,Romance","Nominee",1943,"2,779",7.2,124
+"The More the Merrier","Comedy,Romance,War","Nominee",1943,"6,264",7.7,104
+"The Ox-Bow Incident","Adventure,Drama,Western","Nominee",1942,"22,189",8,75
+"The Song of Bernadette","Biography,Drama","Nominee",1943,"6,554",7.6,156
+"Watch on the Rhine","Drama,Thriller","Nominee",1943,"4,246",7.3,114
+"Going My Way","Comedy,Drama,Music","Winner",1944,"11,187",7.1,126
+"Double Indemnity","Crime,Drama,Film-Noir","Nominee",1944,"149,399",8.3,107
+"Gaslight","Crime,Drama,Mystery","Nominee",1944,"26,296",7.8,114
+"Since You Went Away","Drama,Romance,War","Nominee",1944,"4,428",7.5,177
+"Wilson","Biography,Drama,History","Nominee",1944,"1,525",6.4,154
+"The Lost Weekend","Drama,Film-Noir","Winner",1945,"35,261",7.9,101
+"Anchors Aweigh","Comedy,Fantasy,Music","Nominee",1945,"8,298",7.1,140
+"The Bells of St. Mary's","Drama","Nominee",1945,"7,546",7.3,126
+"Mildred Pierce","Crime,Drama,Film-Noir","Nominee",1945,"24,288",8,111
+"Spellbound","Film-Noir,Mystery,Romance","Nominee",1945,"46,578",7.5,111
+"The Best Years of Our Lives","Drama,Romance,War","Winner",1946,"60,810",8.1,170
+"Henry V","Biography,Drama,History","Nominee",1944,"6,145",7.1,137
+"It's a Wonderful Life","Drama,Family,Fantasy","Nominee",1946,"420,975",8.6,130
+"The Razor's Edge","Drama,Romance","Nominee",1946,"5,770",7.4,145
+"The Yearling","Drama,Family,Western","Nominee",1946,"5,658",7.2,128
+"Gentleman's Agreement","Drama,Romance","Winner",1947,"15,593",7.2,118
+"The Bishop's Wife","Comedy,Drama,Fantasy","Nominee",1947,"15,790",7.6,109
+"Crossfire","Crime,Drama,Film-Noir","Nominee",1947,"8,030",7.3,86
+"Great Expectations","Adventure,Drama,Mystery","Nominee",1946,"23,120",7.8,118
+"Miracle on 34th Street","Comedy,Drama,Family","Nominee",1947,"44,012",7.9,96
+"Hamlet","Drama","Winner",1948,"16,167",7.6,154
+"Johnny Belinda","Drama","Nominee",1948,"4,549",7.8,102
+"The Red Shoes","Drama,Music,Romance","Nominee",1948,"32,804",8.1,135
+"The Snake Pit","Drama,Mystery","Nominee",1948,"7,232",7.6,108
+"The Treasure of the Sierra Madre","Adventure,Drama,Western","Nominee",1948,"119,133",8.2,126
+"All the King's Men","Drama,Film-Noir","Winner",1949,"14,270",7.5,110
+"Battleground","Action,Drama,History","Nominee",1949,"6,970",7.5,118
+"The Heiress","Drama,Romance","Nominee",1949,"14,871",8.2,115
+"A Letter to Three Wives","Drama,Romance","Nominee",1949,"9,000",7.7,103
+"Twelve O'Clock High","Drama,War","Nominee",1949,"13,989",7.7,132
+"All About Eve","Drama","Winner",1950,"125,426",8.2,138
+"Born Yesterday","Comedy,Drama,Romance","Nominee",1950,"10,597",7.6,103
+"Father of the Bride","Comedy,Romance","Nominee",1950,"10,742",7.2,92
+"King Solomon's Mines","Action,Adventure,Romance","Nominee",1950,"5,929",6.8,103
+"Sunset Boulevard","Drama,Film-Noir","Nominee",1950,"210,129",8.4,110
+"An American in Paris","Drama,Musical,Romance","Winner",1951,"31,953",7.2,114
+"Decision Before Dawn","Drama,War","Nominee",1951,"2,596",7.2,119
+"A Place in the Sun","Drama,Romance","Nominee",1951,"21,429",7.8,122
+"Quo Vadis","Biography,Drama,History","Nominee",1951,"14,371",7.2,171
+"A Streetcar Named Desire","Drama","Nominee",1951,"103,781",8,122
+"The Greatest Show on Earth","Drama,Family,Romance","Winner",1952,"13,797",6.6,152
+"High Noon","Drama,Thriller,Western","Nominee",1952,"100,501",8,85
+"Ivanhoe","Adventure,Drama,History","Nominee",1952,"8,627",6.8,106
+"Moulin Rouge","Biography,Drama,Music","Nominee",1952,"5,284",7.1,119
+"The Quiet Man","Comedy,Drama,Romance","Nominee",1952,"36,499",7.8,129
+"From Here to Eternity","Drama,Romance,War","Winner",1953,"45,045",7.6,118
+"Julius Caesar","Biography,Drama,History","Nominee",1953,"11,012",7.3,120
+"The Robe","Drama,History","Nominee",1953,"9,876",6.8,135
+"Roman Holiday","Comedy,Romance","Nominee",1953,"132,970",8,118
+"Shane","Drama,Western","Nominee",1953,"38,752",7.6,118
+"On the Waterfront","Crime,Drama,Thriller","Winner",1954,"147,893",8.1,108
+"The Caine Mutiny","Drama,War","Nominee",1954,"26,649",7.7,124
+"The Country Girl","Drama,Music","Nominee",1954,"5,766",7.3,104
+"Seven Brides for Seven Brothers","Comedy,Drama,Musical","Nominee",1954,"23,448",7.4,102
+"Three Coins in the Fountain","Drama,Romance","Nominee",1954,"3,276",6.3,102
+"Marty","Drama,Romance","Winner",1955,"22,916",7.7,90
+"Love Is a Many-Splendored Thing","Biography,Drama,Romance","Nominee",1955,"4,688",6.5,102
+"Mister Roberts","Comedy,Drama,War","Nominee",1955,"16,057",7.7,123
+"Picnic","Drama,Romance","Nominee",1955,"8,425",7.1,115
+"The Rose Tattoo","Comedy,Drama,Romance","Nominee",1955,"3,763",7,117
+"Around the World in 80 Days","Adventure,Comedy,Family","Winner",1956,"26,019",6.8,175
+"Friendly Persuasion","Drama,Romance,War","Nominee",1956,"6,784",7.4,137
+"Giant","Drama,Western","Nominee",1956,"36,951",7.6,201
+"The King and I","Biography,Drama,Musical","Nominee",1956,"24,685",7.4,133
+"The Ten Commandments","Adventure,Drama","Nominee",1956,"66,969",7.9,220
+"The Bridge on the River Kwai","Adventure,Drama,War","Winner",1957,"210,558",8.1,161
+"12 Angry Men","Crime,Drama","Nominee",1957,"725,938",9,96
+"Peyton Place","Drama,Romance","Nominee",1957,"5,707",7.2,157
+"Sayonara","Drama,Romance","Nominee",1957,"6,473",7.1,147
+"Witness for the Prosecution","Crime,Drama,Mystery","Nominee",1957,"115,545",8.4,116
+"Gigi","Comedy,Musical,Romance","Winner",1958,"21,807",6.7,115
+"Auntie Mame","Comedy,Drama,Romance","Nominee",1958,"10,825",7.9,143
+"Cat on a Hot Tin Roof","Drama","Nominee",1958,"47,222",8,108
+"The Defiant Ones","Crime,Drama","Nominee",1958,"14,358",7.6,96
+"Separate Tables","Drama,Romance","Nominee",1958,"7,248",7.4,100
+"Ben-Hur","Adventure,Drama,History","Winner",1959,"227,894",8.1,212
+"Anatomy of a Murder","Crime,Drama,Mystery","Nominee",1959,"62,835",8,161
+"The Diary of Anne Frank","Biography,Drama,Family","Nominee",1959,"12,413",7.4,180
+"The Nun's Story","Drama","Nominee",1959,"9,968",7.6,149
+"Room at the Top","Drama,Romance","Nominee",1959,"5,746",7.5,115
+"The Apartment","Comedy,Drama,Romance","Winner",1960,"171,390",8.3,125
+"The Alamo","Adventure,Drama,History","Nominee",1960,"15,189",6.8,162
+"Elmer Gantry","Drama","Nominee",1960,"11,043",7.8,146
+"Sons and Lovers","Drama","Nominee",1960,"1,506",7.1,103
+"The Sundowners","Adventure,Drama","Nominee",1960,"4,031",7.1,133
+"West Side Story","Crime,Drama,Musical","Winner",1961,"101,270",7.5,153
+"Fanny","Drama,Romance","Nominee",1961,"2,121",6.9,134
+"The Guns of Navarone","Action,Adventure,Drama","Nominee",1961,"47,296",7.5,158
+"The Hustler","Drama,Sport","Nominee",1961,"78,871",8,134
+"Judgment at Nuremberg","Drama,War","Nominee",1961,"73,363",8.2,179
+"Lawrence of Arabia","Adventure,Biography,Drama","Winner",1962,"278,596",8.3,228
+"The Longest Day","Action,Drama,History","Nominee",1962,"53,759",7.8,178
+"The Music Man","Comedy,Family,Musical","Nominee",1962,"16,665",7.7,151
+"Mutiny on the Bounty","Adventure,Drama,History","Winner",1962,"15,634",7.2,178
+"To Kill a Mockingbird","Crime,Drama","Nominee",1962,"303,387",8.3,129
+"Tom Jones","Adventure,Comedy,History","Winner",1963,"12,448",6.5,129
+"America America","Drama","Nominee",1963,"5,215",7.8,174
+"Cleopatra","Biography,Drama,History","Nominee",1963,"31,027",7,192
+"How the West Was Won","Western","Nominee",1962,"19,741",7.1,164
+"Lilies of the Field","Drama","Nominee",1963,"9,751",7.6,94
+"My Fair Lady","Drama,Family,Musical","Winner",1964,"90,361",7.8,170
+"Becket","Biography,Drama,History","Nominee",1964,"14,231",7.8,148
+"Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb","Comedy","Nominee",1964,"466,261",8.4,95
+"Mary Poppins","Comedy,Family,Fantasy","Nominee",1964,"163,118",7.8,139
+"Zorba the Greek","Comedy,Drama","Nominee",1964,"21,591",7.7,142
+"The Sound of Music","Biography,Drama,Family","Winner",1965,"215,374",8,172
+"Darling","Drama,Romance","Nominee",1965,"6,468",7.1,128
+"Doctor Zhivago","Drama,Romance,War","Nominee",1965,"72,548",8,197
+"Ship of Fools","Drama,Romance,War","Nominee",1965,"5,725",7.1,149
+"A Thousand Clowns","Comedy,Drama,Romance","Nominee",1965,"3,349",7.4,118
+"A Man for All Seasons","Biography,Drama,History","Winner",1966,"33,107",7.7,120
+"Alfie","Comedy,Drama","Nominee",1966,"14,178",7,114
+"The Russians Are Coming, the Russians Are Coming","Comedy,War","Nominee",1966,"8,473",7,126
+"The Sand Pebbles","Adventure,Drama,Romance","Nominee",1966,"14,184",7.6,182
+"Who's Afraid of Virginia Woolf?","Drama","Nominee",1966,"72,597",8,131
+"In the Heat of the Night","Crime,Drama,Mystery","Winner",1967,"70,719",7.9,110
+"Bonnie and Clyde","Action,Biography,Crime","Nominee",1967,"107,803",7.8,111
+"Doctor Dolittle","Adventure,Comedy,Family","Nominee",1967,"9,028",6.2,152
+"The Graduate","Comedy,Drama,Romance","Nominee",1967,"261,921",8,106
+"Guess Who's Coming to Dinner","Comedy,Drama","Nominee",1967,"41,907",7.8,108
+"Oliver!","Drama,Family,Musical","Winner",1968,"36,386",7.4,153
+"Funny Girl","Biography,Comedy,Drama","Nominee",1968,"21,174",7.4,151
+"The Lion in Winter","Biography,Drama,History","Nominee",1968,"30,196",7.9,134
+"Rachel, Rachel","Drama,Romance","Nominee",1968,"3,213",7.3,101
+"Romeo and Juliet","Drama,Romance","Nominee",1968,"30,500",7.6,138
+"Midnight Cowboy","Drama","Winner",1969,"106,077",7.8,113
+"Anne of the Thousand Days","Biography,Drama,History","Nominee",1969,"7,138",7.5,145
+"Butch Cassidy and the Sundance Kid","Biography,Crime,Drama","Nominee",1969,"208,400",8,110
+"Hello, Dolly!","Adventure,Comedy,Musical","Nominee",1969,"14,420",7.1,146
+"Z","Crime,Drama,History","Nominee",1969,"25,227",8.3,127
+"Patton","Biography,Drama,War","Winner",1970,"98,155",7.9,172
+"Airport","Action,Drama,Thriller","Nominee",1970,"18,289",6.6,137
+"Five Easy Pieces","Drama","Nominee",1970,"35,199",7.5,98
+"Love Story","Drama,Romance","Nominee",1970,"32,681",6.9,100
+"M*A*S*H","Comedy,Drama,War","Nominee",1970,"69,897",7.5,116
+"The French Connection","Action,Crime,Drama","Winner",1971,"115,341",7.7,104
+"A Clockwork Orange","Crime,Drama,Sci-Fi","Nominee",1971,"783,346",8.3,136
+"Fiddler on the Roof","Drama,Family,Musical","Nominee",1971,"41,233",8,181
+"The Last Picture Show","Drama,Romance","Nominee",1971,"44,843",8,118
+"Nicholas and Alexandra","Biography,Drama,History","Nominee",1971,"4,671",7.2,183
+"The Godfather","Crime,Drama","Winner",1972,"1,697,396",9.2,175
+"Cabaret","Drama,Music,Musical","Nominee",1972,"51,698",7.8,124
+"Deliverance","Adventure,Drama,Thriller","Nominee",1972,"102,934",7.7,109
+"The Emigrants","Drama,History","Nominee",1971,"6,121",8,151
+"Sounder","Drama,Family","Nominee",1972,"3,920",7.6,105
+"The Sting","Comedy,Crime,Drama","Winner",1973,"249,856",8.3,129
+"American Graffiti","Comedy,Drama","Nominee",1973,"85,117",7.4,110
+"Cries and Whispers","Drama","Nominee",1972,"32,122",8.1,91
+"The Exorcist","Horror","Nominee",1973,"375,156",8,122
+"A Touch of Class","Comedy,Romance","Nominee",1973,"2,991",6.5,106
+"The Godfather Part II","Crime,Drama","Winner",1974,"1,178,981",9,202
+"Chinatown","Drama,Mystery,Thriller","Nominee",1974,"308,349",8.2,130
+"The Conversation","Drama,Mystery,Thriller","Nominee",1974,"105,312",7.8,113
+"Lenny","Biography,Drama","Nominee",1974,"15,444",7.6,111
+"The Towering Inferno","Action,Drama,Thriller","Nominee",1974,"41,582",7,165
+"One Flew Over the Cuckoo's Nest","Drama","Winner",1975,"950,833",8.7,133
+"Barry Lyndon","Adventure,Drama,History","Nominee",1975,"157,491",8.1,185
+"Dog Day Afternoon","Biography,Crime,Drama","Nominee",1975,"245,162",8,125
+"Jaws","Adventure,Thriller","Nominee",1975,"563,056",8,124
+"Nashville","Comedy,Drama,Music","Nominee",1975,"25,084",7.7,160
+"Rocky","Drama,Sport","Winner",1976,"537,813",8.1,120
+"All the President's Men","Biography,Drama,History","Nominee",1976,"109,033",8,138
+"Bound for Glory","Biography,Drama,Music","Nominee",1976,"4,892",7.3,147
+"Network","Drama","Nominee",1976,"151,780",8.1,121
+"Taxi Driver","Crime,Drama","Nominee",1976,"758,393",8.2,114
+"Annie Hall","Comedy,Romance","Winner",1977,"257,550",8,93
+"The Goodbye Girl","Comedy,Drama,Romance","Nominee",1977,"13,292",7.4,111
+"Julia","Drama","Nominee",1977,"9,219",7.2,117
+"Star Wars","Action,Adventure,Fantasy","Nominee",1977,"1,272,908",8.6,121
+"The Turning Point","Drama,Romance","Nominee",1977,"4,457",6.9,119
+"The Deer Hunter","Drama,War","Winner",1978,"323,543",8.1,183
+"Coming Home","Drama,Romance,War","Nominee",1978,"13,023",7.3,127
+"Heaven Can Wait","Comedy,Fantasy,Romance","Nominee",1978,"19,822",6.9,101
+"Midnight Express","Biography,Crime,Drama","Nominee",1978,"76,311",7.6,121
+"An Unmarried Woman","Comedy,Drama,Romance","Nominee",1978,"5,113",7.2,124
+"Kramer vs. Kramer","Drama","Winner",1979,"138,582",7.8,105
+"All That Jazz","Drama,Music,Musical","Nominee",1979,"29,674",7.9,123
+"Apocalypse Now","Drama,Mystery,War","Nominee",1979,"627,726",8.4,147
+"Breaking Away","Comedy,Drama,Romance","Nominee",1979,"22,594",7.7,101
+"Norma Rae","Drama","Nominee",1979,"11,062",7.3,114
+"Ordinary People","Drama","Winner",1980,"49,328",7.7,124
+"Coal Miner's Daughter","Biography,Drama,Music","Nominee",1980,"17,579",7.5,124
+"The Elephant Man","Biography,Drama","Nominee",1980,"229,693",8.1,124
+"Raging Bull","Biography,Drama,Sport","Nominee",1980,"334,550",8.2,129
+"Tess","Drama,Romance","Nominee",1979,"15,999",7.3,186
+"Chariots of Fire","Biography,Drama,Sport","Winner",1981,"57,292",7.2,125
+"Atlantic City","Crime,Drama,Romance","Nominee",1980,"16,039",7.3,104
+"On Golden Pond","Drama","Nominee",1981,"29,276",7.6,109
+"Raiders of the Lost Ark","Action,Adventure","Nominee",1981,"914,188",8.4,115
+"Reds","Horror,Mystery,Thriller","Nominee",1975,"35,213",7.6,127
+"Gandhi","Biography,Drama,History","Winner",1982,"223,282",8,191
+"E.T. the Extra-Terrestrial","Family,Sci-Fi","Nominee",1982,"386,073",7.8,115
+"Missing","Biography,Drama,History","Nominee",1982,"20,689",7.7,122
+"Tootsie","Comedy,Drama,Romance","Nominee",1982,"101,492",7.4,116
+"The Verdict","Drama","Nominee",1982,"37,826",7.7,129
+"Terms of Endearment","Comedy,Drama","Winner",1983,"57,538",7.4,132
+"The Big Chill","Comedy,Drama","Nominee",1983,"34,895",7.2,105
+"The Dresser","Drama","Nominee",1983,"5,072",7.6,118
+"The Right Stuff","Adventure,Biography,Drama","Nominee",1983,"59,265",7.8,193
+"Tender Mercies","Drama,Music","Nominee",1983,"10,060",7.4,92
+"Amadeus","Biography,Drama,History","Winner",1984,"381,101",8.3,160
+"The Killing Fields","Biography,Drama,History","Nominee",1984,"53,545",7.8,141
+"A Passage to India","Adventure,Drama,History","Nominee",1984,"18,017",7.3,164
+"Places in the Heart","Drama","Nominee",1984,"11,271",7.4,111
+"A Soldier's Story","Crime,Drama,Mystery","Nominee",1984,"9,570",7.2,101
+"Out of Africa","Biography,Drama,Romance","Winner",1985,"76,084",7.2,161
+"The Color Purple","Drama","Nominee",1985,"82,027",7.8,154
+"Kiss of the Spider Woman","Drama","Nominee",1985,"15,003",7.4,120
+"Prizzi's Honor","Comedy,Crime,Drama","Nominee",1985,"23,681",6.7,130
+"Witness","Crime,Drama,Romance","Nominee",1985,"90,252",7.4,112
+"Platoon","Drama,War","Winner",1986,"394,151",8.1,120
+"Children of a Lesser God","Drama,Romance","Nominee",1986,"15,807",7.2,119
+"Hannah and Her Sisters","Comedy,Drama","Nominee",1986,"69,273",7.9,107
+"The Mission","Adventure,Drama,History","Nominee",1986,"58,975",7.4,125
+"A Room with a View","Drama,Romance","Nominee",1985,"41,517",7.3,117
+"The Last Emperor","Biography,Drama,History","Winner",1987,"98,273",7.7,163
+"Broadcast News","Comedy,Drama,Romance","Nominee",1987,"28,908",7.2,133
+"Fatal Attraction","Drama,Thriller","Nominee",1987,"80,634",6.9,119
+"Hope and Glory","Comedy,Drama,Romance","Nominee",1987,"13,104",7.3,113
+"Moonstruck","Comedy,Drama,Romance","Nominee",1987,"54,964",7.1,102
+"Rain Man","Drama","Winner",1988,"488,860",8,133
+"The Accidental Tourist","Drama,Romance","Nominee",1988,"15,488",6.8,121
+"Dangerous Liaisons","Drama,Romance","Nominee",1988,"66,909",7.6,119
+"Mississippi Burning","Crime,Drama,History","Nominee",1988,"94,171",7.8,128
+"Working Girl","Comedy,Drama,Romance","Nominee",1988,"54,343",6.8,113
+"Driving Miss Daisy","Drama","Winner",1989,"104,806",7.4,99
+"Born on the Fourth of July","Biography,Drama,War","Nominee",1989,"101,778",7.2,145
+"Dead Poets Society","Comedy,Drama","Nominee",1989,"446,811",8.1,128
+"Field of Dreams","Drama,Family,Fantasy","Nominee",1989,"113,841",7.5,107
+"My Left Foot","Biography,Drama","Nominee",1989,"71,014",7.9,103
+"Dances with Wolves","Adventure,Drama,Western","Winner",1990,"249,524",8,181
+"Awakenings","Biography,Drama","Nominee",1990,"132,136",7.8,121
+"Ghost","Drama,Fantasy,Romance","Nominee",1990,"204,848",7.1,127
+"The Godfather Part III","Crime,Drama","Nominee",1990,"373,892",7.6,162
+"Goodfellas","Biography,Crime,Drama","Nominee",1990,"1,065,109",8.7,146
+"The Silence of the Lambs","Crime,Drama,Thriller","Winner",1991,"1,326,186",8.6,118
+"Beauty and the Beast","Animation,Family,Fantasy","Nominee",1991,"427,333",8,84
+"Bugsy","Biography,Crime,Drama","Nominee",1991,"27,635",6.8,136
+"JFK","Drama,History,Thriller","Nominee",1991,"147,893",8,189
+"The Prince of Tides","Drama,Romance","Nominee",1991,"17,342",6.7,132
+"Unforgiven","Drama,Western","Winner",1992,"390,280",8.2,130
+"The Crying Game","Crime,Drama,Romance","Nominee",1992,"53,289",7.3,112
+"A Few Good Men","Drama,Thriller","Nominee",1992,"245,903",7.7,138
+"Howards End","Drama,Romance","Nominee",1992,"30,508",7.4,142
+"Scent of a Woman","Drama","Nominee",1992,"277,333",8,156
+"Schindler's List","Biography,Drama,History","Winner",1993,"1,261,563",8.9,195
+"The Fugitive","Action,Crime,Drama","Nominee",1993,"278,006",7.8,130
+"In the Name of the Father","Biography,Crime,Drama","Nominee",1993,"165,134",8.1,133
+"The Piano","Drama,Music,Romance","Nominee",1993,"81,749",7.6,121
+"The Remains of the Day","Drama,Romance","Nominee",1993,"69,613",7.8,134
+"Forrest Gump","Drama,Romance","Winner",1994,"1,895,991",8.8,142
+"Four Weddings and a Funeral","Comedy,Drama,Romance","Nominee",1994,"145,046",7.1,117
+"Pulp Fiction","Crime,Drama","Nominee",1994,"1,900,918",8.9,154
+"Quiz Show","Biography,Drama,History","Nominee",1994,"66,948",7.5,133
+"The Shawshank Redemption","Drama","Nominee",1994,"2,452,594",9.3,142
+"Braveheart","Biography,Drama,History","Winner",1995,"986,016",8.3,178
+"Apollo 13","Adventure,Drama,History","Nominee",1995,"279,684",7.6,140
+"Babe","Comedy,Drama,Family","Nominee",1995,"120,428",6.8,91
+"The Postman (Il Postino)","Biography,Comedy,Drama","Nominee",1994,"34,974",7.7,108
+"Sense and Sensibility","Drama,Romance","Nominee",1995,"108,657",7.7,136
+"The English Patient","Drama,Romance,War","Winner",1996,"183,677",7.4,162
+"Fargo","Crime,Drama,Thriller","Nominee",1996,"641,314",8.1,98
+"Jerry Maguire","Comedy,Drama,Romance","Nominee",1996,"251,072",7.3,139
+"Secrets & Lies","Comedy,Drama","Nominee",1996,"41,079",8,136
+"Shine","Biography,Drama,Music","Nominee",1996,"52,751",7.7,105
+"Titanic","Drama,Romance","Winner",1997,"1,089,044",7.8,194
+"As Good as It Gets","Comedy,Drama,Romance","Nominee",1997,"285,908",7.7,139
+"The Full Monty","Comedy,Drama","Nominee",1997,"102,282",7.2,91
+"Good Will Hunting","Drama,Romance","Nominee",1997,"896,929",8.3,126
+"L.A. Confidential","Crime,Drama,Mystery","Nominee",1997,"550,162",8.2,138
+"Shakespeare in Love","Comedy,Drama,History","Winner",1998,"218,538",7.1,123
+"Elizabeth","Biography,Drama,History","Nominee",1998,"95,572",7.4,124
+"Life Is Beautiful","Comedy,Drama,Romance","Nominee",1997,"649,390",8.6,116
+"Saving Private Ryan","Drama,War","Nominee",1998,"1,287,001",8.6,169
+"The Thin Red Line","Drama,War","Nominee",1998,"179,626",7.6,170
+"American Beauty","Drama","Winner",1999,"1,101,496",8.3,122
+"The Cider House Rules","Drama,Romance","Nominee",1999,"95,629",7.4,126
+"The Green Mile","Crime,Drama,Fantasy","Nominee",1999,"1,198,434",8.6,189
+"The Insider","Biography,Drama,Thriller","Nominee",1999,"165,522",7.8,157
+"The Sixth Sense","Drama,Mystery,Thriller","Nominee",1999,"939,659",8.1,107
+"Gladiator","Action,Adventure,Drama","Winner",2000,"1,393,352",8.5,155
+"Chocolat","Drama,Romance","Nominee",2000,"183,002",7.2,121
+"Crouching Tiger, Hidden Dragon","Action,Adventure,Fantasy","Nominee",2000,"259,991",7.8,120
+"Erin Brockovich","Biography,Drama","Nominee",2000,"184,808",7.4,131
+"Traffic","Crime,Drama,Thriller","Nominee",2000,"201,093",7.6,147
+"A Beautiful Mind","Biography,Drama","Winner",2001,"878,511",8.2,135
+"Gosford Park","Comedy,Drama,Mystery","Nominee",2001,"83,531",7.2,131
+"In the Bedroom","Crime,Drama","Nominee",2001,"39,427",7.4,131
+"The Lord of the Rings: The Fellowship of the Ring","Action,Adventure,Drama","Nominee",2001,"1,724,755",8.8,178
+"Moulin Rouge!","Drama,Musical,Romance","Nominee",2001,"273,077",7.6,127
+"Chicago","Comedy,Crime,Musical","Winner",2002,"221,622",7.2,113
+"Gangs of New York","Crime,Drama","Nominee",2002,"418,948",7.5,167
+"The Hours","Drama,Romance","Nominee",2002,"127,773",7.5,110
+"The Lord of the Rings: The Two Towers","Action,Adventure,Drama","Nominee",2002,"1,540,135",8.7,179
+"The Pianist","Biography,Drama,Music","Nominee",2002,"766,841",8.5,150
+"The Lord of the Rings: The Return of the King","Action,Adventure,Drama","Winner",2003,"1,703,481",8.9,201
+"Lost in Translation","Comedy,Drama","Nominee",2003,"431,381",7.7,102
+"Master and Commander: The Far Side of the World","Action,Adventure,Drama","Nominee",2003,"210,599",7.4,138
+"Mystic River","Crime,Drama,Mystery","Nominee",2003,"435,337",7.9,138
+"Seabiscuit","Drama,History,Sport","Nominee",2003,"70,147",7.3,140
+"Million Dollar Baby","Drama,Sport","Winner",2004,"655,679",8.1,132
+"The Aviator","Biography,Drama","Nominee",2004,"344,901",7.5,170
+"Finding Neverland","Biography,Drama,Family","Nominee",2004,"202,139",7.7,106
+"Ray","Biography,Drama,Music","Nominee",2004,"142,545",7.7,152
+"Sideways","Comedy,Drama,Romance","Nominee",2004,"184,511",7.5,127
+"Crash","Crime,Drama,Thriller","Winner",2004,"426,775",7.7,112
+"Brokeback Mountain","Drama,Romance","Nominee",2005,"337,000",7.7,134
+"Capote","Biography,Crime,Drama","Nominee",2005,"128,822",7.3,114
+"Good Night, and Good Luck","Biography,Drama,History","Nominee",2005,"95,865",7.4,93
+"Munich","Action,Drama,History","Nominee",2005,"218,462",7.5,164
+"The Departed","Crime,Drama,Thriller","Winner",2006,"1,235,906",8.5,151
+"Babel","Drama","Nominee",2006,"295,061",7.4,143
+"Letters from Iwo Jima","Action,Adventure,Drama","Nominee",2006,"157,732",7.9,141
+"Little Miss Sunshine","Comedy,Drama","Nominee",2006,"453,506",7.8,101
+"The Queen","Biography,Drama,History","Nominee",2006,"107,000",7.3,103
+"No Country for Old Men","Crime,Drama,Thriller","Winner",2007,"896,630",8.1,122
+"Atonement","Drama,Mystery,Romance","Nominee",2007,"261,609",7.8,123
+"Juno","Comedy,Drama","Nominee",2007,"502,296",7.4,96
+"Michael Clayton","Crime,Drama,Mystery","Nominee",2007,"160,164",7.2,119
+"There Will Be Blood","Drama","Nominee",2007,"542,278",8.2,158
+"Slumdog Millionaire","Drama,Romance","Winner",2008,"816,485",8,120
+"The Curious Case of Benjamin Button","Drama,Fantasy,Romance","Nominee",2008,"611,518",7.8,166
+"Frost/Nixon","Biography,Drama,History","Nominee",2008,"105,602",7.7,122
+"Milk","Biography,Drama","Nominee",2008,"168,756",7.5,128
+"The Reader","Drama,Romance","Nominee",2008,"235,605",7.6,124
+"The Hurt Locker","Drama,Thriller,War","Winner",2008,"433,326",7.5,131
+"Avatar","Action,Adventure,Fantasy","Nominee",2009,"1,153,124",7.8,162
+"The Blind Side","Biography,Drama,Sport","Nominee",2009,"305,982",7.6,129
+"District 9","Action,Sci-Fi,Thriller","Nominee",2009,"653,215",7.9,112
+"An Education","Drama","Nominee",2009,"131,326",7.3,100
+"Inglourious Basterds","Adventure,Drama,War","Nominee",2009,"1,326,791",8.3,153
+"Precious: Based on the Novel 'Push' by Sapphire","Drama","Nominee",2009,"107,998",7.3,110
+"A Serious Man","Comedy,Drama","Nominee",2009,"137,770",7.1,106
+"Up","Animation,Adventure,Comedy","Nominee",2009,"971,845",8.2,96
+"Up in the Air","Comedy,Drama,Romance","Nominee",2009,"325,743",7.4,109
+"The King's Speech","Biography,Drama,History","Winner",2010,"655,187",8,118
+"127 Hours","Biography,Drama","Nominee",2010,"359,243",7.5,94
+"Black Swan","Drama,Thriller","Nominee",2010,"721,688",8,108
+"The Fighter","Biography,Drama,Sport","Nominee",2010,"350,469",7.8,116
+"Inception","Action,Adventure,Sci-Fi","Nominee",2010,"2,160,498",8.8,148
+"The Kids Are All Right","Comedy,Drama,Romance","Nominee",2010,"127,959",7,106
+"The Social Network","Biography,Drama","Nominee",2010,"651,516",7.7,120
+"Toy Story 3","Animation,Adventure,Comedy","Nominee",2010,"783,665",8.2,103
+"True Grit","Drama,Western","Nominee",2010,"322,030",7.6,110
+"Winter's Bone","Drama,Mystery","Nominee",2010,"138,998",7.2,100
+"The Artist","Comedy,Drama,Romance","Winner",2011,"235,457",7.9,100
+"The Descendants","Comedy,Drama","Nominee",2011,"236,381",7.3,115
+"Extremely Loud & Incredibly Close","Adventure,Drama,Mystery","Nominee",2011,"99,514",6.9,129
+"The Help","Drama","Nominee",2011,"438,666",8,146
+"Hugo","Drama,Family,Fantasy","Nominee",2011,"312,181",7.5,126
+"Midnight in Paris","Comedy,Fantasy,Romance","Nominee",2011,"401,524",7.7,94
+"Moneyball","Biography,Drama,Sport","Nominee",2011,"389,329",7.6,133
+"The Tree of Life","Drama,Fantasy","Nominee",2011,"171,734",6.8,139
+"War Horse","Action,Adventure,Drama","Nominee",2011,"151,533",7.2,146
+"Argo","Biography,Drama,Thriller","Winner",2012,"588,984",7.7,120
+"Amour","Drama","Nominee",2012,"96,258",7.9,127
+"Beasts of the Southern Wild","Adventure,Drama,Fantasy","Nominee",2012,"82,051",7.3,93
+"Django Unchained","Drama,Western","Nominee",2012,"1,420,092",8.4,165
+"Life of Pi","Adventure,Drama,Fantasy","Nominee",2012,"598,436",7.9,127
+"Lincoln","Crime,Drama,Mystery","Nominee",2011,"223,752",7.3,118
+"Les Misérables","Drama,History,Musical","Nominee",2012,"317,030",7.6,158
+"Silver Linings Playbook","Comedy,Drama,Romance","Nominee",2012,"679,022",7.7,122
+"Zero Dark Thirty","Drama,History,Thriller","Nominee",2012,"283,119",7.4,157
+"12 Years a Slave","Biography,Drama,History","Winner",2013,"662,741",8.1,134
+"American Hustle","Crime,Drama","Nominee",2013,"460,918",7.2,138
+"Captain Phillips","Adventure,Biography,Crime","Nominee",2013,"436,364",7.8,134
+"Dallas Buyers Club","Biography,Drama","Nominee",2013,"459,404",8,117
+"Gravity","Drama,Sci-Fi,Thriller","Nominee",2013,"789,470",7.7,91
+"Her","Drama,Romance,Sci-Fi","Nominee",2013,"565,149",8,126
+"Nebraska","Adventure,Comedy,Drama","Nominee",2013,"115,031",7.7,115
+"Philomena","Biography,Comedy,Drama","Nominee",2013,"96,771",7.6,98
+"The Wolf of Wall Street","Biography,Crime,Drama","Nominee",2013,"1,257,166",8.2,180
+"Birdman or (The Unexpected Virtue of Ignorance)","Comedy,Drama","Winner",2014,"599,240",7.7,119
+"American Sniper","Action,Biography,Drama","Nominee",2014,"455,885",7.3,133
+"Boyhood","Drama","Nominee",2014,"343,822",7.9,165
+"The Grand Budapest Hotel","Adventure,Comedy,Crime","Nominee",2014,"741,950",8.1,99
+"The Imitation Game","Biography,Drama,Thriller","Nominee",2014,"714,452",8,114
+"Selma","Biography,Drama,History","Nominee",2014,"89,059",7.5,128
+"The Theory of Everything","Biography,Drama,Romance","Nominee",2014,"421,764",7.7,123
+"Whiplash","Drama,Music","Nominee",2014,"758,911",8.5,106
+"Spotlight","Biography,Crime,Drama","Winner",2015,"440,413",8.1,129
+"The Big Short","Biography,Comedy,Drama","Nominee",2015,"387,192",7.8,130
+"Bridge of Spies","Drama,History,Thriller","Nominee",2015,"298,091",7.6,142
+"Brooklyn","Drama,Romance","Nominee",2015,"135,972",7.5,117
+"Mad Max: Fury Road","Action,Adventure,Sci-Fi","Nominee",2015,"922,840",8.1,120
+"The Martian","Adventure,Drama,Sci-Fi","Nominee",2015,"791,919",8,144
+"The Revenant","Action,Adventure,Drama","Nominee",2015,"738,208",8,156
+"Room","Drama,Thriller","Nominee",2015,"391,182",8.1,118
+"Moonlight","Drama","Winner",2016,"287,563",7.4,111
+"Arrival","Drama,Sci-Fi","Nominee",2016,"629,568",7.9,116
+"Fences","Drama","Nominee",2016,"102,639",7.2,139
+"Hacksaw Ridge","Biography,Drama,History","Nominee",2016,"464,504",8.1,139
+"Hell or High Water","Action,Crime,Drama","Nominee",2016,"213,325",7.6,102
+"Hidden Figures","Biography,Drama,History","Nominee",2016,"211,233",7.8,127
+"La La Land","Comedy,Drama,Music","Nominee",2016,"534,405",8,128
+"Lion","Biography,Drama","Nominee",2016,"223,804",8,118
+"Manchester by the Sea","Drama","Nominee",2016,"260,159",7.8,137
+"The Shape of Water","Adventure,Drama,Fantasy","Winner",2017,"391,523",7.3,123
+"Call Me by Your Name","Drama,Romance","Nominee",2017,"234,177",7.9,132
+"Darkest Hour","Biography,Drama,History","Nominee",2017,"184,502",7.4,125
+"Dunkirk","Action,Drama,History","Nominee",2017,"591,901",7.8,106
+"Get Out","Horror,Mystery,Thriller","Nominee",2017,"526,587",7.7,104
+"Lady Bird","Comedy,Drama","Nominee",2017,"258,867",7.4,94
+"Phantom Thread","Drama,Romance","Nominee",2017,"119,413",7.5,130
+"The Post","Drama","Nominee",2017,"142,630",7.2,116
+"Three Billboards Outside Ebbing, Missouri","Comedy,Crime,Drama","Nominee",2017,"463,268",8.1,115
+"Green Book","Biography,Comedy,Drama","Winner",2018,"422,669",8.2,130
+"Black Panther","Action,Adventure,Sci-Fi","Nominee",2018,"671,956",7.3,134
+"BlacKkKlansman","Biography,Comedy,Crime","Nominee",2018,"240,028",7.5,135
+"Bohemian Rhapsody","Biography,Drama,Music","Nominee",2018,"482,597",7.9,134
+"The Favourite","Biography,Comedy,Drama","Nominee",2018,"183,744",7.5,119
+"Roma","Drama","Nominee",2018,"147,705",7.7,135
+"A Star Is Born","Drama,Music,Romance","Nominee",2018,"354,157",7.6,136
+"Vice","Biography,Comdey,Drama","Nominee",2018,"132,014",7.2,132
+"Parasite","Comedy,Drama,Thriller","Winner",2019,"651,517",8.6,132
+"1917","Action,Drama,War","Nominee",2019,"485,648",8.3,119
+"Ford v Ferrari","Action,Biography,Drama","Nominee",2019,"331,665",8.1,152
+"The Irishman","Biography,Crime,Drama","Nominee",2019,"349,303",7.8,209
+"Jojo Rabbit","Comedy,Drama,War","Nominee",2019,"335,856",7.9,108
+"Joker","Crime,Drama,Thriller","Nominee",2019,"1,056,051",8.4,122
+"Little Women","Drama,Romance","Nominee",2019,"163,410",7.8,135
+"Marriage Story","Comedy,Drama,Romance","Nominee",2019,"270,304",7.9,137
+"Once Upon a Time in Hollywood","Comedy,Drama","Nominee",2019,"628,233",7.6,161
+"Nomadland","Drama","Nominee",2020,"123,041",7.4,107
+"The Father","Drama","Nominee",2020,"89,693",8.3,97
+"Judas and the Black Messiah","Biography,Drama,History","Nominee",2021,"58,996",7.5,126
+"Mank","Biography,Comedy,Drama","Nominee",2020,"65,380",6.9,131
+"Minari","Drama","Nominee",2020,"57,976",7.5,115
+"Promising Young Woman","Crime,Drama,Thriller","Nominee",2020,"122,269",7.5,113
+"Sound of Metal","Drama,Music","Nominee",2019,"102,807",7.8,120
+"The Trial of the Chicago 7","Drama,History,Thriller","Nominee",2020,"156,283",7.8,129
